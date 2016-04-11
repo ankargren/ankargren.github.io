@@ -16,7 +16,7 @@ image:
 ## Working papers:
 
 * **Ankargren S.**, and Jin, S. (2016) On the equivalence of confidence interval estimation using frequentist model averaging and least squares in the full model in linear regression, Working Paper 2016:1, Department of Statistics, Uppsala University.
-* **Andersson S.**, Bjellerup,. M, and Shahnazarian, H. (2015) The importance of the financial system for the real economy, , Working Paper 2015:1, Department of Statistics, Uppsala University.
+* **Andersson S.**, Bjellerup, M., and Shahnazarian, H. (2015) The importance of the financial system for the real economy, Working Paper 2015:1, Department of Statistics, Uppsala University.
 
 ## Work in progress:
 
@@ -25,7 +25,7 @@ image:
 
 ## Presentations:
 
-* *Upcoming.* JSM 2016, Chicago, IL. August, 2016.
+* JSM 2016, Chicago, IL. August, 2016. *Scheduled.*
 * Department of Statistics, Uppsala University. March, 2016.
 * Department of Statistics, Uppsala University. January, 2015.
 * Economic Affairs Division, Ministry of Finance, Stockholm. August, 2014.
