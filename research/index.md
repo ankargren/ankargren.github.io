@@ -28,4 +28,4 @@ image:
 * JSM 2016, Chicago, IL. August, 2016. *Scheduled.*
 * Department of Statistics, Uppsala University. March, 2016.
 * Department of Statistics, Uppsala University. January, 2015.
-* Economic Affairs Division, Ministry of Finance, Stockholm. August, 2014.
+* Economic Affairs Department, Ministry of Finance, Stockholm. August, 2014.
