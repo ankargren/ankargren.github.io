@@ -6,8 +6,6 @@ excerpt: "Curriculum Vitae."
 image:
 ---
 
-A pdf version can be downloaded from [here](http://www.google.com).
-
 ### Contact information
 **Email:** <sebastian.ankargren@statistics.uu.se><br><br>
 **Postal address:**<br>
@@ -26,7 +24,6 @@ Sweden
 
 ### Work Experience
 
-* **2016 -** Consulting statistician, Swedish National Debt Office, Stockholm.
 * **2012 - 2014**  Desk officer/statistician (summer intern), Ministry of Finance, Stockholm.
 * **2012 - 2014** Teaching assistant, Department of Statistics, Uppsala University.
 
