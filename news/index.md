@@ -6,6 +6,12 @@ excerpt: "News."
 image:
 ---
 
+#### August 2016:
+* I will give a talk at JSM in Chicago.
+
+#### July 2016:
+* I changed my last name from Andersson to Ankargren.
+
 #### May 2016:
 * I teach the time series part of [Applied Statistics](https://studentportalen.uu.se/portal/portal/uusp/student/student-course?uusp-locale=en).
 
