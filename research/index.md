@@ -10,7 +10,7 @@ image:
 ### Submitted papers
 
 * *Submitted to Communications in Statistics---Theory and Methods.* On the equivalence of confidence interval estimation based on frequentist model averaging and least squares for the full model in linear regression (with [Shaobo Jin](http://katalog.uu.se/profile/?id=N11-1506))
-* *Conditionally accepted, Empirical Economics.* The importance of the financial system for the real economy (with Mårten Bjellerup and Hovick Shahnazarian)
+* *Accepted, Empirical Economics.* The importance of the financial system for the real economy (with Mårten Bjellerup and Hovick Shahnazarian)
 
 ### Working papers
 
@@ -24,7 +24,7 @@ image:
 
 ### Presentations
 
-* JSM 2016, Chicago, IL. August, 2016. *Scheduled.*
+* JSM 2016, Chicago, IL. August, 2016.
 * Department of Statistics, Uppsala University. March, 2016.
 * Department of Statistics, Uppsala University. January, 2015.
 * Economic Affairs Department, Ministry of Finance, Stockholm. August, 2014.

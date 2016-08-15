@@ -6,8 +6,13 @@ excerpt: "News."
 image:
 ---
 
+#### September 2016:
+* The course [Time Series Econometrics](https://studentportalen.uu.se/portal/portal/uusp/student/student-course?uusp-locale=en) (September-October) starts, for which I'm the teaching assistant.
+
 #### August 2016:
-* I will give a talk at JSM in Chicago.
+* Our paper "The importance of the financial system for the real economy" (with Mårten Bjellerup and Hovick Shahnazarian) is accepted for publication in *Empirical Economics*.
+* Talk at JSM in Chicago.
+* On parental leave (50 %), August - December.
 
 #### July 2016:
 * I changed my last name from Andersson to Ankargren.
