@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Research
-modified: 2016-04-10
+modified: 2016-09-03
 comments: false
 image:
 
@@ -19,11 +19,15 @@ image:
 
 ### Work in progress
 
+* Mixed-frequency Bayesian VARs with steady-state priors (with Måns Unosson and Yukai Yang)
 * Frequentist model averaging in factor score regression (with [Shaobo Jin](http://katalog.uu.se/profile/?id=N11-1506))
 * A comparative study of frequentist model averaging and penalized least squares (with [Shaobo Jin](http://katalog.uu.se/profile/?id=N11-1506))
+* Frequentist model averaging in confirmatory factor analysis (with [Shaobo Jin](http://katalog.uu.se/profile/?id=N11-1506))
+
 
 ### Presentations
 
+* Department of Statistics, Uppsala University. December, 2016. *Scheduled*.
 * JSM 2016, Chicago, IL. August, 2016.
 * Department of Statistics, Uppsala University. March, 2016.
 * Department of Statistics, Uppsala University. January, 2015.

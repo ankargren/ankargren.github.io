@@ -24,7 +24,7 @@ Sweden
 
 ### Work Experience
 
-* **2012 - 2014**  Desk officer/statistician (summer intern), Ministry of Finance, Stockholm.
+* **2012 - 2014** Desk officer/statistician (summer intern), Ministry of Finance, Stockholm.
 * **2012 - 2014** Teaching assistant, Department of Statistics, Uppsala University.
 
 ### Teaching
@@ -32,7 +32,7 @@ Sweden
 #### Current teaching
 * **Statistical Programming with R** (lecturer and TA, graduate level)
 * **Time Series Econometrics** (lecturer and TA, graduate level)
-* **Applied Statistics - Time Series Analysis** (lecturer, undergraduate level)
+* **Inference** (TA, graduate level)
 
 #### Previous teaching
 * **Econometric Theory and Methodology** (lecturer and TA, graduate level)
@@ -40,6 +40,7 @@ Sweden
 * **Time Series Analysis** (TA, undergraduate level)
 * **Applied Statistical Methodology** (TA, undergraduate level)
 * **Introductory Statistics** (TA, undergraduate level)
+* **Applied Statistics (Time Series Analysis)** (lecturer, undergraduate level)
 * **Applied Statistics** (TA, undergraduate level)
 
 ### Research
