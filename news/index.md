@@ -1,12 +1,13 @@
 ---
 layout: page
 title: News
-modified: 2016-04-10
+modified: 2016-10-07
 excerpt: "News."
 image:
 ---
 
 #### September 2016:
+* Our paper "The importance of the financial system for the real economy" (with Mårten Bjellerup and Hovick Shahnazarian) is published in *Empirical Economics*: [link here](http://link.springer.com/article/10.1007/s00181-016-1175-4).
 * The course [Time Series Econometrics](https://studentportalen.uu.se/portal/portal/uusp/student/student-course?uusp-locale=en) (September-October) starts, for which I'm the teaching assistant.
 
 #### August 2016:
