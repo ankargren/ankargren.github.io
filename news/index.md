@@ -1,10 +1,19 @@
 ---
 layout: page
 title: News
-modified: 2016-10-07
+modified: 2016-12-09
 excerpt: "News."
 image:
 ---
+#### January 2017:
+* [Statistical Programming with R](https://studentportalen.uu.se/portal/portal/uusp/student/student-course?uusp.portalpage=true&toolMode=studentUse&entityId=139739) begins. I will lecture on visualization, data wrangling, simulation and modeling.
+* On parental leave (25 %), January--May.
+
+#### December 2016:
+* Talk at the Department of Statistics, Uppsala University.
+
+#### November 2016:
+* [Inference](https://studentportalen.uu.se/portal/portal/uusp/student/student-course?uusp-locale=en) (November--January) starts, which I TA.
 
 #### September 2016:
 * Our paper "The importance of the financial system for the real economy" (with Mårten Bjellerup and Hovick Shahnazarian) is published in *Empirical Economics*: [link here](http://link.springer.com/article/10.1007/s00181-016-1175-4).
@@ -13,7 +22,7 @@ image:
 #### August 2016:
 * Our paper "The importance of the financial system for the real economy" (with Mårten Bjellerup and Hovick Shahnazarian) is accepted for publication in *Empirical Economics*.
 * Talk at JSM in Chicago.
-* On parental leave (50 %), August - December.
+* On parental leave (50 %), August--December.
 
 #### July 2016:
 * I changed my last name from Andersson to Ankargren.
@@ -29,7 +38,7 @@ image:
 * Talk at the Department of Statistics (Uppsala University).
 
 #### February 2016:
-* On parental leave (50 %), February - May.
+* On parental leave (50 %), February--May.
 
 #### January 2016:
-* I teach the first part (in Jan-Feb) of [Statistical Programming with R](https://studentportalen.uu.se/portal/portal/uusp/student/student-course?uusp.portalpage=true&entityId=129258&toolMode=studentUse).
+* I teach the first part (in Jan--Feb) of [Statistical Programming with R](https://studentportalen.uu.se/portal/portal/uusp/student/student-course?uusp.portalpage=true&entityId=129258&toolMode=studentUse).
