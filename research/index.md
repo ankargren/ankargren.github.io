@@ -13,7 +13,7 @@ image:
 
 ### Submitted papers
 
-* *Submitted to Communications in Statistics---Theory and Methods.* On the equivalence of confidence interval estimation based on frequentist model averaging and least squares for the full model in linear regression (with [Shaobo Jin](http://katalog.uu.se/profile/?id=N11-1506))
+* *Submitted to Communications in Statistics---Theory and Methods.* On the least squares model averaging interval estimator (with [Shaobo Jin](http://katalog.uu.se/profile/?id=N11-1506))
 
 ### Working papers
 
@@ -30,7 +30,7 @@ image:
 
 ### Presentations
 
-* Department of Statistics, Uppsala University. December, 2016. *Scheduled*.
+* Department of Statistics, Uppsala University. December, 2016.
 * JSM 2016, Chicago, IL. August, 2016.
 * Department of Statistics, Uppsala University. March, 2016.
 * Department of Statistics, Uppsala University. January, 2015.
