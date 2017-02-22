@@ -5,7 +5,6 @@ modified: 2017-02-22
 excerpt: "News."
 image:
 ---
-
 #### February 2017:
 * Our paper "On the least squares model averaging interval estimator" (with Shaobo Jin) is accepted for publication in *Communications in Statistics---Theory and Methods*.
 
