@@ -11,9 +11,9 @@ image:
 
 * **Ankargren S.**, Bjellerup, M., and Shahnazarian, H. (2016) The importance of the financial system for the real economy. Empirical Economics, doi:10.1007/s00181-016-1175-4. [(Link)](http://link.springer.com/article/10.1007/s00181-016-1175-4)
 
-### Submitted papers
+### Accepted papers
 
-* *Submitted to Communications in Statistics---Theory and Methods.* On the least squares model averaging interval estimator (with [Shaobo Jin](http://katalog.uu.se/profile/?id=N11-1506))
+* *Accepted for publication in Communications in Statistics---Theory and Methods.* On the least squares model averaging interval estimator (with [Shaobo Jin](http://katalog.uu.se/profile/?id=N11-1506))
 
 ### Working papers
 

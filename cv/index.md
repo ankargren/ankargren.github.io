@@ -7,8 +7,8 @@ image:
 ---
 
 ### Contact information
-**Email:** <sebastian.ankargren@statistics.uu.se><br><br>
-**Postal address:**<br>
+Email: <sebastian.ankargren@statistics.uu.se><br><br>
+Postal address:<br>
 Sebastian Ankargren<br>
 Department of Statistics<br>
 Uppsala University<br>
@@ -18,30 +18,31 @@ Sweden
 
 ### Education
 
-* **2014 -**   Ph. D., Uppsala University, Statistics.
-* **2012 - 2014** M. Sc., Uppsala University, Statistics.
-* **2009 - 2012** B. Sc., Uppsala University, Statistics.
+* 2014 -   Ph. D., Uppsala University, Statistics.
+* 2012 - 2014 M. Sc., Uppsala University, Statistics.
+* 2009 - 2012 B. Sc., Uppsala University, Statistics.
 
 ### Work Experience
 
-* **2012 - 2014** Desk officer/statistician (summer intern), Ministry of Finance, Stockholm.
-* **2012 - 2014** Teaching assistant, Department of Statistics, Uppsala University.
+* 2012 - 2014 Desk officer/statistician (summer intern), Ministry of Finance, Stockholm.
+* 2012 - 2014 Teaching assistant, Department of Statistics, Uppsala University.
 
 ### Teaching
 
 #### Current teaching
-* **Statistical Programming with R** (lecturer and TA, graduate level)
-* **Time Series Econometrics** (lecturer and TA, graduate level)
-* **Inference** (TA, graduate level)
+* Statistical Programming with R (lecturer and TA, graduate level)
+* Time Series Econometrics (lecturer and TA, graduate level)
+* Inference (TA, graduate level)
+* Master thesis supervision
 
 #### Previous teaching
-* **Econometric Theory and Methodology** (lecturer and TA, graduate level)
-* **Econometrics** (TA, undergraduate level)
-* **Time Series Analysis** (TA, undergraduate level)
-* **Applied Statistical Methodology** (TA, undergraduate level)
-* **Introductory Statistics** (TA, undergraduate level)
-* **Applied Statistics (Time Series Analysis)** (lecturer, undergraduate level)
-* **Applied Statistics** (TA, undergraduate level)
+* Econometric Theory and Methodology (lecturer and TA, graduate level)
+* Econometrics (TA, undergraduate level)
+* Time Series Analysis (TA, undergraduate level)
+* Applied Statistical Methodology (TA, undergraduate level)
+* Introductory Statistics (TA, undergraduate level)
+* Applied Statistics, Time Series Analysis (lecturer, undergraduate level)
+* Applied Statistics (TA, undergraduate level)
 
 ### Research
 See the <a href="{{ site.url }}/research">research</a> page.
