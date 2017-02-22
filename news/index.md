@@ -1,13 +1,10 @@
-﻿---
+---
 layout: page
 title: News
-modified: 2017-02-22
+modified: 2016-12-09
 excerpt: "News."
 image:
 ---
-#### February 2017:
-* Our paper "On the least squares model averaging interval estimator" (with Shaobo Jin) is accepted for publication in *Communications in Statistics---Theory and Methods*.
-
 #### January 2017:
 * [Statistical Programming with R](https://studentportalen.uu.se/portal/portal/uusp/student/student-course?uusp.portalpage=true&toolMode=studentUse&entityId=139739) begins. I will lecture on visualization, data wrangling, simulation and modeling.
 * On parental leave (25 %), January--May.
