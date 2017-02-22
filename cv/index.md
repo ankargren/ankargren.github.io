@@ -18,14 +18,14 @@ Sweden
 
 ### Education
 
-* 2014 -   Ph. D., Uppsala University, Statistics.
-* 2012 - 2014 M. Sc., Uppsala University, Statistics.
-* 2009 - 2012 B. Sc., Uppsala University, Statistics.
+* 2014 --   Ph. D., Uppsala University, Statistics.
+* 2012 -- 2014 M. Sc., Uppsala University, Statistics.
+* 2009 -- 2012 B. Sc., Uppsala University, Statistics.
 
 ### Work Experience
 
-* 2012 - 2014 Desk officer/statistician (summer intern), Ministry of Finance, Stockholm.
-* 2012 - 2014 Teaching assistant, Department of Statistics, Uppsala University.
+* 2012 -- 2014 Desk officer/statistician (summer intern), Ministry of Finance, Stockholm.
+* 2012 -- 2014 Teaching assistant, Department of Statistics, Uppsala University.
 
 ### Teaching
 
