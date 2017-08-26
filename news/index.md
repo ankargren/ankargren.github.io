@@ -1,10 +1,17 @@
 ---
 layout: page
 title: News
-modified: 2016-12-09
+modified: 2017-08-26
 excerpt: "News."
 image:
 ---
+#### August 2017:
+* [Statistical Programming with R](https://studentportalen.uu.se/portal/portal/uusp/student/student-course?uusp-locale=en) starts. I'm the head teacher and will hold lectures on visualization, data wrangling, simulation and modeling.
+
+#### June 2017:
+* I just published a <a href="{{ site.url }}/r/running-r-simulations-on-uppmax/">blog post</a> on how to use UPPMAX for running simulation in R.
+* On parental leave (100 %), June--August.
+
 #### February 2017:
 * Our paper "On the least squares model averaging interval estimator" (with Shaobo Jin) is accepted for publication in *Communications in Statistics---Theory and Methods*. Accepted author version: [(Link)](http://www.tandfonline.com/doi/full/10.1080/03610926.2017.1300272)
 

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Curriculum Vitae
-modified: 2016-04-10
+modified: 2017-08-26
 excerpt: "Curriculum Vitae."
 image:
 ---
@@ -30,12 +30,12 @@ Sweden
 ### Teaching
 
 #### Current teaching
-* Statistical Programming with R (lecturer and TA, graduate level)
-* Time Series Econometrics (lecturer and TA, graduate level)
-* Inference (TA, graduate level)
-* Master thesis supervision
+* Statistical Programming with R (head teacher and lecturer, graduate level)
 
 #### Previous teaching
+* Master thesis supervision
+* Inference (TA, graduate level)
+* Time Series Econometrics (lecturer and TA, graduate level)
 * Econometric Theory and Methodology (lecturer and TA, graduate level)
 * Econometrics (TA, undergraduate level)
 * Time Series Analysis (TA, undergraduate level)
