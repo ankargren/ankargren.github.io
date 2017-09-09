@@ -18,19 +18,19 @@ Sweden
 
 ### Education
 
-* 2014 --   Ph. D., Uppsala University, Statistics.
-* 2012 -- 2014 M. Sc., Uppsala University, Statistics.
-* 2009 -- 2012 B. Sc., Uppsala University, Statistics.
+2014 --   Ph. D., Uppsala University, Statistics.<br><br>
+2012 -- 2014 M. Sc., Uppsala University, Statistics.<br><br>
+2009 -- 2012 B. Sc., Uppsala University, Statistics.
 
 ### Work Experience
 
-* 2012 -- 2014 Desk officer/statistician (summer intern), Ministry of Finance, Stockholm.
-* 2012 -- 2014 Teaching assistant, Department of Statistics, Uppsala University.
+2012 -- 2014 Desk officer/statistician (summer intern), Ministry of Finance, Stockholm.<br><br>
+2012 -- 2014 Teaching assistant, Department of Statistics, Uppsala University.
 
 ### Teaching
 
 #### Current teaching
-* Statistical Programming with R (head teacher and lecturer, graduate level)
+Statistical Programming with R (head teacher and lecturer, graduate level)
 
 #### Previous teaching
 * Master thesis supervision
