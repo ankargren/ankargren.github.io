@@ -9,7 +9,6 @@ image:
 
 ### Published papers
 
-
 Ankargren S., and Jin, S. (2017) "[On the least-squares model averaging interval estimator](http://www.tandfonline.com/doi/full/10.1080/03610926.2017.1300272)", *Communications in Statistics---Theory and Methods*.
 <br><br>
 Ankargren S., Bjellerup, M., and Shahnazarian, H. (2016) "[The importance of the financial system for the real economy](http://link.springer.com/article/10.1007/s00181-016-1175-4)", *Empirical Economics*.
@@ -22,10 +21,9 @@ A comparative study of frequentist model averaging and penalized least squares (
 
 
 ### Presentations
-
+Computational and Financial Econometrics (CFE), London, UK. December, 2017. (*Scheduled*)<br><br>
 Department of Statistics, Uppsala University. December, 2017. (*Scheduled*)<br><br>
 Department of Statistics, Uppsala University. December, 2016.<br><br>
 Joint Statistical Meetings, Chicago, IL. August, 2016.<br><br>
 Department of Statistics, Uppsala University. March, 2016.<br><br>
-Department of Statistics, Uppsala University. January, 2015.<br><br>
-Economic Affairs Department, Ministry of Finance, Stockholm. August, 2014.
+Department of Statistics, Uppsala University. January, 2015.
