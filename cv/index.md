@@ -8,7 +8,7 @@ image:
 
 [Download a longer version as pdf][1]
 
-[1]:/files/CV_Sebastian_Ankargren_20170929.pdf
+[1]:/files/CV_Sebastian_Ankargren.pdf
 
 #### Contact information
 Email: <sebastian.ankargren@statistics.uu.se><br><br>
