@@ -159,7 +159,9 @@ pre.highlight{padding:1em}
   margin-bottom:1.5em;
   border-radius:4px;
   list-style:none;
-  padding-left:0;}
+  padding-left:0;
+  overflow-x:scroll;
+  -webkit-overflow-scrolling:touch}
 
 .highlight pre{
     position:relative;
@@ -168,7 +170,7 @@ pre.highlight{padding:1em}
 
 .highlight .lineno{
   padding-right:24px;
-  color:#b3b3b1}
+  color:#b3b3b1;}
 .highlight .hll{background-color:#ffc}
 .highlight .c{color:#999988;font-style:italic}
 .highlight .err{color:#a61717;background-color:#e3d2d2}
@@ -248,4 +250,11 @@ hr {
 .p-foot {
   font-size: 12px;
   text-align: center;
+}
+
+.scrolls {
+    overflow-x: scroll;
+    overflow-y: hidden;
+    height: 80px;
+    white-space:nowrap
 }
