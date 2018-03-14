@@ -1,34 +1,49 @@
----
----
+<!DOCTYPE html>
+<html lang="{{ site.isolang }}" itemscope itemtype="http://schema.org/WebPage">
+<link rel="stylesheet" href="https://cdn.rawgit.com/jpswalsh/academicons/master/css/academicons.min.css">
 
-<!doctype html>
-<!--
-  Minimal Mistakes Jekyll Theme 4.5.2 by Michael Rose
-  Copyright 2017 Michael Rose - mademistakes.com | @mmistakes
-  Free for personal and commercial use under the MIT license
-  https://github.com/mmistakes/minimal-mistakes/blob/master/LICENSE.txt
--->
-<html lang="{{ site.locale | slice: 0,2 | default: "en" }}" class="no-js">
-  <head>
-    {% include head.html %}
-    {% include head/custom.html %}
-  </head>
+{% include head.html %}
 
-  <body class="layout--{{ page.layout | default: layout.layout }}{% if page.classes or layout.classes %}{{ page.classes | default: layout.classes | join: ' ' | prepend: ' ' }}{% endif %}">
+<body class="wrap wider">
+	<div class="grid">
+		<div id="/home" class="unit one-quarter">
+			<div class="grid">
+				<div class="unit whole" id="/home">
+					<img src="{{ site.url }}/assets/images/{{ site.picture }}" class="bio-photo" alt="{{ author.name }} bio photo">
+				</div>
+				<div class="unit whole" id="/contact" align="center">
+					<a href="mailto:{{ site.email }}" class="fa-icon btn"><i class="fa fa-3x fa-envelope-square"></i></a>
+					<a href="https://github.com/{{ site.github_username }}" class="fa-icon btn"><i class="fa fa-3x fa-github-square"></i></a>
+					<a href="http://linkedin.com/in/{{ site.linkedin_username }}" class="fa-icon btn"><i class="fa fa-3x fa-linkedin-square"></i></a>
+					<a href="http://orcid.org/{{ site.orcid_username }}" class="fa-icon btn"><i class="ai ai-orcid-square ai-3x"></i></a>
+				</div>
+				<div class="unit whole hide-on-mobiles" id="/impressum">
+					<a href="{{ site.url }}/assets/files/{{ site.cv }}"><h3>Curriculum vitae</h3></a>
+				</div>
+				<div class="unit whole hide-on-mobiles" id="/impressum">
+					{% include imprint.html %}
+				</div>
+			</div>
+		</div>
+		<div class="unit three-quarters blog-column">
+			<div class="grid">
+				<div class="unit whole" id="/blog">
+					<a href = {{site.url}} class = "titlelink"><h1>{{ site.title }}</h1></a>
+					<p>{{ site.description }}</p>
+				<div class="unit whole" id="/blog">
+					{{ content }}
+				</div>
+				</div>
+			</div>
+		</div>
 
-    {% include browser-upgrade.html %}
-    {% include masthead.html %}
+		<div class="unit whole hide-on-desktops" id="/impressum">
+			{% include imprint.html %}
+		</div>
+	</div>
 
-    {{ content }}
+	{% include foot.html %}
 
-    <div class="page__footer">
-      <footer>
-        {% include footer/custom.html %}
-        {% include footer.html %}
-      </footer>
-    </div>
+</body>
 
-    {% include scripts.html %}
-
-  </body>
 </html>

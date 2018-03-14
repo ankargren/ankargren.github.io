@@ -16,7 +16,7 @@ Long story short: the problem is that the package makes use of the Armadillo C++
 
 The solution I ended up using is having a system-dependent `Makevars` file (which sets up links to libraries), which turns on or off OpenMP support. In the following, I will briefly document the steps I took to set this up. 
 
-# The standard `Makevars` file
+## The standard `Makevars` file
 The standard `Makevars` file I use for `RcppArmadillo`-dependent packages is as follows:
 
     PKG_CXXFLAGS = $(SHLIB_OPENMP_CXXFLAGS) 
@@ -29,7 +29,7 @@ As this shows, there are two links here to OpenMP libraries. On Linux, we want t
 
 So how can such a system-dependent `Makevars` be created? 
 
-# Using a `configure` script
+## Using a `configure` script
 
 The main part to get this all up and running is the inclusion of a [configure script](https://cran.r-project.org/doc/manuals/r-release/R-exts.html#Configure-and-cleanup). Essentially, the purpose of the configure script is to configure the `Makevars` file based on the system specifications.
 
@@ -109,7 +109,7 @@ Finally, it is also appropriate to add a `cleanup` file (also in the main direct
 
 	rm -f config.* src/Makevars
 	
-# Running `autoconf`
+## Running `autoconf`
 At this point, I first thought I was done and it would work. But to my surprise, it did not. What I was missing was a final but important step: to create a `configure` file from the `configure.ac` script. This is easily done on a Linux computer by the following terminal statement:
 
     autoconf configure.ac --output=configure
@@ -118,7 +118,7 @@ Next, just copy the newly-created (and incredibly long) `configure` file into th
 
 At this point, the package should compile on both Linux and OS X, with OpenMP support being dynamically enabled.
 
-# Fixing line endings
+## Fixing line endings
 However, there's rarely a problem fix that doesn't cause a new problem, and this is no exception. When checking the package on [win-builder](https://win-builder.r-project.org/), I received a warning about `CRLF` (Windows-style) line endings in `configure.ac` and `cleanup`, which should be `LF` (Unix-style endings). Luckily, this can easily be fixed automatically by GitHub.
 
 First, set the default for the repository to be `LF`: 

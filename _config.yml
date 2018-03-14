@@ -1,87 +1,33 @@
-# Site wide configuration
+safe: false
 
-title:            Sebastian Ankargren
-locale:           en_US
-url:
-
-
-# Jekyll configuration
-
-permalink:   /:categories/:title/
-markdown:    kramdown
+# build settings
+markdown: kramdown
 highlighter: rouge
-sass:
-  sass_dir: _sass
-  style: compressed
-gems:
-  - jekyll-sitemap
-  - jekyll-gist
+lsi: false
+permalink: /:title
 
-kramdown:
-  auto_ids: true
-  footnote_nr: 1
-  entity_output: as_char
-  toc_levels: 1..6
-  enable_coderay: false
-
-
-# Octopress
-
-# Default extensions
-post_ext: md
-page_ext: md
-
-# Found in _templates/
-post_layout: post
-page_layout: page
-
-# Format titles with titlecase?
-titlecase: true
+title: "Sebastian Ankargren"
+description: "Ph. D. Student<br>Department of Statistics<br>Uppsala University"
+baseurl: ""
+url: "https://ankargren.github.io/" # replace by your site's url
+twitter_username: 
+github_username:  ankargren # (your name)
+orcid_username: 0000-0003-4415-8734
+linkedin_username: sebastianankargren
+accent: "#ffffff" # accent color for blog column
+picture: linkedin.jpg
 
 
-# Site owner
-owner:
-  name: Sebastian Ankargren
-  avatar: linkedin.jpg
-  bio: "Ph. D. Student <br> Department of Statistics <br> Uppsala University"
-  email: sebastian.ankargren@statistics.uu.se
-  disqus-shortname:
-  twitter: #username
-  facebook: #username
-  google:
-    plus: #username
-    analytics:
-    verify:
-    ad-client:
-    ad-slot:
-  bing-verify:
-  github: ankargren
-  stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
-  linkedin: ankargren
-  xing: #username
-  instagram: #username
-  lastfm: #username
-  tumblr: #username
-  pinterest: #username
-  foursquare: #username
-  steam: #username
-  dribbble: #username
-  youtube: #username
-  soundcloud: #username
-  weibo: #username
-  flickr: #username
-  codepen: #username
+author: "Sebastian Ankargren"
+address: "Box 513<br>751 48 Uppsala<br>Sweden"
+email: "sebastian.ankargren@statistics.uu.se"
+cv: CV_Sebastian_Ankargren.pdf
 
-include: [".htaccess"]
-exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
+# language settings
+isolang: en
 
-defaults:
-  # _posts
-  - scope:
-      path: ""
-      type: posts
-    values:
-      layout: single
-      read_time: true
-      comments: true
-      related: true
+# exclude files
+exclude:
+  - LICENSE
+  - README.md
+
