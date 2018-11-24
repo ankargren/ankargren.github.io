@@ -1,3 +1,5 @@
+I am a Ph. D. student at the Department of Statistics, Uppsala University. My current focus is Bayesian time series econometrics and mixed-frequency models in particular. During the fall of 2018 I am visiting the Modeling division at Sveriges Riksbank as a Ph. D. intern.
+
 ### Peer-reviewed publications
 
 3. Jin, S., and Ankargren, S. (2018) "[Frequentist model averaging in structural equation modelling](https://link.springer.com/article/10.1007/s11336-018-9624-y)", *Psychometrika*.
