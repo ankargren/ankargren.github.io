@@ -1,4 +1,4 @@
-I am a Ph. D. student at the Department of Statistics, Uppsala University. My current focus is Bayesian time series econometrics and mixed-frequency models in particular. During the fall of 2018 I am visiting the Modeling division at Sveriges Riksbank as a Ph. D. intern.
+I am a Ph. D. student at the Department of Statistics, Uppsala University. My current focus is Bayesian time series econometrics in general and mixed-frequency models in particular. During the fall of 2018 I am visiting the Modeling division at Sveriges Riksbank as a Ph. D. intern.
 
 ### Peer-reviewed publications
 
@@ -8,7 +8,7 @@ I am a Ph. D. student at the Department of Statistics, Uppsala University. My cu
 
 ### Working papers
 
-2. [A mixed-frequency Bayesian vector autoregression with a steady-state prior](http://uu.diva-portal.org/smash/get/diva2:1260262/FULLTEXT01.pdf) (with Måns Unosson and Yukai Yang)
+2. [A mixed-frequency Bayesian vector autoregression with a steady-state prior](http://uu.diva-portal.org/smash/get/diva2:1260262/FULLTEXT01.pdf) (with Måns Unosson and Yukai Yang) [Code and data](https://doi.org/10.5281/zenodo.1145828)
 1. [Estimating a VECM for a small open economy](http://uu.diva-portal.org/smash/get/diva2:1239428/FULLTEXT01.pdf) (with Johan Lyhagen)
 
 ### Software
@@ -20,6 +20,7 @@ I am a Ph. D. student at the Department of Statistics, Uppsala University. My cu
 
 ### Presentations
 
+7. Sveriges Riksbank, Stockholm. December, 2018.
 6. Computational and Financial Econometrics (CFE), London, UK. December, 2017. 
 5. Department of Statistics, Uppsala University. December, 2017. 
 4. Department of Statistics, Uppsala University. December, 2016.
