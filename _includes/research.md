@@ -13,13 +13,14 @@ I am a Ph. D. student at the Department of Statistics, Uppsala University. My cu
 
 ### Software
 
-1. `mfbvar`: Mixed-frequency Bayesian VAR models in R [GitHub](https://github.com/ankargren/mfbvar)
+1. `mfbvar`: Mixed-frequency Bayesian VAR models in R [CRAN](https://CRAN.R-project.org/package=mfbvar), [GitHub](https://github.com/ankargren/mfbvar)
 3. `statmath`: Statistical notation made easy in Latex [CTAN](https://ctan.org/pkg/statmath), [GitHub](https://github.com/ankargren/statmath)
 4. `karencv`: Academic CV template following Dr. Karen's guidelines [GitHub](https://github.com/ankargren/karencv)
 
 
 ### Presentations
 
+8. Department of Statistics, Uppsala University. January, 2019. (*Scheduled*)
 7. Sveriges Riksbank, Stockholm. December, 2018.
 6. Computational and Financial Econometrics (CFE), London, UK. December, 2017. 
 5. Department of Statistics, Uppsala University. December, 2017. 
