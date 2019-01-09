@@ -20,7 +20,7 @@ I am a Ph. D. student at the Department of Statistics, Uppsala University. My cu
 
 ### Presentations
 
-8. Department of Statistics, Uppsala University. January, 2019. (*Scheduled*)
+8. Department of Statistics, Uppsala University. January, 2019. *(Scheduled)*
 7. Sveriges Riksbank, Stockholm. December, 2018.
 6. Computational and Financial Econometrics (CFE), London, UK. December, 2017. 
 5. Department of Statistics, Uppsala University. December, 2017. 
