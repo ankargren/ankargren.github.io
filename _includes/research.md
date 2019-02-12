@@ -1,8 +1,8 @@
-I am a Ph. D. student at the Department of Statistics, Uppsala University. My current focus is Bayesian time series econometrics in general and mixed-frequency models in particular. During the fall of 2018 I am visiting the Modeling division at Sveriges Riksbank as a Ph. D. intern.
+I am a Ph. D. student at the Department of Statistics, Uppsala University. My current focus is Bayesian time series econometrics in general and mixed-frequency models in particular.
 
 ### Peer-reviewed publications
 
-3. Jin, S., and Ankargren, S. (2018) "[Frequentist model averaging in structural equation modelling](https://link.springer.com/article/10.1007/s11336-018-9624-y)", *Psychometrika*.
+3. Jin, S., and Ankargren, S. (2019) "[Frequentist model averaging in structural equation modelling](https://link.springer.com/article/10.1007/s11336-018-9624-y)", *Psychometrika*.
 2. Ankargren S., and Jin, S. (2018) "[On the least-squares model averaging interval estimator](http://www.tandfonline.com/doi/full/10.1080/03610926.2017.1300272)", *Communications in Statistics---Theory and Methods*.
 1. Ankargren S., Bjellerup, M., and Shahnazarian, H. (2017) "[The importance of the financial system for the real economy](http://link.springer.com/article/10.1007/s00181-016-1175-4)", *Empirical Economics*.
 
@@ -20,7 +20,7 @@ I am a Ph. D. student at the Department of Statistics, Uppsala University. My cu
 
 ### Presentations
 
-8. Department of Statistics, Uppsala University. January, 2019. *(Scheduled)*
+8. Department of Statistics, Uppsala University. January, 2019.
 7. Sveriges Riksbank, Stockholm. December, 2018.
 6. Computational and Financial Econometrics (CFE), London, UK. December, 2017. 
 5. Department of Statistics, Uppsala University. December, 2017. 
