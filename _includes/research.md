@@ -1,5 +1,7 @@
 I am a Ph. D. student at the Department of Statistics, Uppsala University. My current focus is Bayesian time series econometrics in general and mixed-frequency models in particular.
 
+In August, I will start work as an Economist at the National Institute of Economic Research and the Macroeconomic Research and Simulations Division.
+
 ### Peer-reviewed publications
 
 3. Jin, S., and Ankargren, S. (2019) "[Frequentist model averaging in structural equation modelling](https://link.springer.com/article/10.1007/s11336-018-9624-y)", *Psychometrika*.
@@ -8,6 +10,8 @@ I am a Ph. D. student at the Department of Statistics, Uppsala University. My cu
 
 ### Working papers
 
+4. [Simulation smoothing for nowcasting with large mixed-frequency VARs](http://arxiv.org/abs/1907.01075) (with Paulina Jonéus)
+3. [The interaction between fiscal and monetary policies: Evidence from Sweden](https://www.riksbank.se/globalassets/media/rapporter/working-papers/2019/no.-365-the-interaction-between-fiscal-and-monetary-policies-evidence-from-sweden.pdf) (with Hovick Shahnazarian)
 2. [A mixed-frequency Bayesian vector autoregression with a steady-state prior](http://uu.diva-portal.org/smash/get/diva2:1260262/FULLTEXT01.pdf) (with Måns Unosson and Yukai Yang) [Code and data](https://doi.org/10.5281/zenodo.1145828)
 1. [Estimating a VECM for a small open economy](http://uu.diva-portal.org/smash/get/diva2:1239428/FULLTEXT01.pdf) (with Johan Lyhagen)
 
