@@ -7,7 +7,7 @@ lsi: false
 permalink: /:title
 
 title: "Sebastian Ankargren"
-description: "Ph. D. Student<br>Department of Statistics<br>Uppsala University"
+description: ""
 baseurl: ""
 url: "https://ankargren.github.io/" # replace by your site's url
 twitter_username: 
@@ -19,8 +19,7 @@ picture: linkedin.jpg
 
 
 author: "Sebastian Ankargren"
-address: "Department of Statistics<br>Box 513<br>751 48 Uppsala<br>Sweden"
-email: "sebastian.ankargren@statistics.uu.se"
+email: "sebastian.ankargren@konj.se"
 cv: CV_Sebastian_Ankargren.pdf
 
 # language settings

@@ -1,4 +1,4 @@
-I am a Ph. D. student at the Department of Statistics, Uppsala University. I will defend my thesis "VAR Models, Cointegration and Mixed-Frequency Data" in October. Since August, I work as an Economist/Econometrician at the National Institute of Economic Research and the Macroeconomic Research and Simulations Division.
+I am an Econometrician at the National Institute of Economic Research and the Macroeconomic Research and Simulations Division. I defended my PhD thesis on mixed-frequency VAR models in 2019. 
 
 ### Peer-reviewed publications
 
