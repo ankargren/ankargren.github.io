@@ -8,9 +8,10 @@ I am an Econometrician at the National Institute of Economic Research and the Ma
 
 ### Working papers
 
-4. [Simulation smoothing for nowcasting with large mixed-frequency VARs](http://arxiv.org/abs/1907.01075) (with Paulina Jonéus)
-3. [The interaction between fiscal and monetary policies: Evidence from Sweden](https://www.riksbank.se/globalassets/media/rapporter/working-papers/2019/no.-365-the-interaction-between-fiscal-and-monetary-policies-evidence-from-sweden.pdf) (with Hovick Shahnazarian)
-2. [A mixed-frequency Bayesian vector autoregression with a steady-state prior](http://uu.diva-portal.org/smash/get/diva2:1260262/FULLTEXT01.pdf) (with Måns Unosson and Yukai Yang) [Code and data](https://doi.org/10.5281/zenodo.1145828)
+5. [Estimating Large Mixed-Frequency Bayesian VAR Models](https://arxiv.org/abs/1912.02231) (with Paulina Jonéus)
+4. [A Flexible Mixed-Frequency Vector Autoregression with a Steady-State Prior](https://arxiv.org/abs/1911.09151) (with Måns Unosson and Yukai Yang)
+3. [Simulation smoothing for nowcasting with large mixed-frequency VARs](http://arxiv.org/abs/1907.01075) (with Paulina Jonéus)
+2. [The interaction between fiscal and monetary policies: Evidence from Sweden](https://www.riksbank.se/globalassets/media/rapporter/working-papers/2019/no.-365-the-interaction-between-fiscal-and-monetary-policies-evidence-from-sweden.pdf) (with Hovick Shahnazarian)
 1. [Estimating a VECM for a small open economy](http://uu.diva-portal.org/smash/get/diva2:1239428/FULLTEXT01.pdf) (with Johan Lyhagen)
 
 ### Software
