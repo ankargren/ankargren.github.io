@@ -1,7 +1,7 @@
 I am an Econometrician at the National Institute of Economic Research and the Macroeconomic Research and Simulations Division. I hold a doctoral degree in statistics from Uppsala University and defended my PhD thesis on mixed-frequency VAR models in 2019. 
 
 ### Peer-reviewed publications
-5. Ankargren, S., and Jonéus, P. (2020) "[Simulation Smoothing for Nowcasting with Large Mixed-Frequency VARs](http://arxiv.org/abs/1907.01075) (with Paulina Jonéus)", *Econometrics and Statistics* (accepted).
+5. Ankargren, S., and Jonéus, P. (2020) "[Simulation Smoothing for Nowcasting with Large Mixed-Frequency VARs](http://arxiv.org/abs/1907.01075)", *Econometrics and Statistics* (accepted).
 4. Ankargren, S., Unosson, M., and Yang, Y. (2020) "[A Flexible Mixed-Frequency Vector Autoregression with a Steady-State Prior](https://arxiv.org/abs/1911.09151)", *Journal of Time Series Econometrics* (accepted).
 3. Jin, S., and Ankargren, S. (2019) "[Frequentist Model Averaging in Structural Equation Modelling](https://link.springer.com/article/10.1007/s11336-018-9624-y)", *Psychometrika*.
 2. Ankargren, S., and Jin, S. (2018) "[On the Least-Squares Model Averaging Interval Estimator](http://www.tandfonline.com/doi/full/10.1080/03610926.2017.1300272)", *Communications in Statistics---Theory and Methods*.
