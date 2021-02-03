@@ -9,6 +9,7 @@ I am an Econometrician at the National Institute of Economic Research and the Ma
 
 ### Work in progress
 
+5. [Nowcasting Swedish GDP Growth](https://www.konj.se/download/18.186c6658177007380ced94aa/1612275575478/Working%20paper%20154.pdf) (with Unn Lindholm)
 4. [Time-Varying Macroeconomic Forecast Uncertainty: Sweden and the Covid-19 Pandemic](https://www.konj.se/download/18.3d1e79df1746a00a2456b37f/1600240930956/Working%20paper%20153_Time-Varying%20Macroeconomic%20Forecast%20Uncertainty.pdf)
 3. [Estimating Large Mixed-Frequency Bayesian VAR Models](https://arxiv.org/abs/1912.02231) (with Paulina Jonéus)
 2. [The Interaction Between Fiscal and Monetary Policies: Evidence from Sweden](https://www.riksbank.se/globalassets/media/rapporter/working-papers/2019/no.-365-the-interaction-between-fiscal-and-monetary-policies-evidence-from-sweden.pdf) (with Hovick Shahnazarian)
