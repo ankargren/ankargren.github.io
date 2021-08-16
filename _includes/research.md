@@ -1,4 +1,4 @@
-I am an Econometrician at the National Institute of Economic Research and the Macroeconomic Research and Simulations Division. I have a PhD in statistics and defended my PhD thesis on mixed-frequency VAR models in 2019. 
+I am a Data Scientist at Spotify. I have a PhD in statistics and defended my PhD thesis on mixed-frequency VAR models in 2019. 
 
 ### Peer-reviewed publications
 5. Ankargren, S., and Jonéus, P. (2020) "[Simulation Smoothing for Nowcasting with Large Mixed-Frequency VARs](https://doi.org/10.1016/j.ecosta.2020.05.007)", *Econometrics and Statistics*.
