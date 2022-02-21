@@ -9,6 +9,7 @@ I am a Data Scientist at Spotify. I have a PhD in statistics and defended my PhD
 
 ### Work in progress
 
+6. [Local Prediction Pools](https://arxiv.org/abs/2112.09073) (with Oscar Oelrich and Mattias Villani)
 5. [Nowcasting Swedish GDP Growth](https://www.konj.se/download/18.186c6658177007380ced94aa/1612275575478/Working%20paper%20154.pdf) (with Unn Lindholm)
 4. [Time-Varying Macroeconomic Forecast Uncertainty: Sweden and the Covid-19 Pandemic](https://www.konj.se/download/18.3d1e79df1746a00a2456b37f/1600240930956/Working%20paper%20153_Time-Varying%20Macroeconomic%20Forecast%20Uncertainty.pdf)
 3. [Estimating Large Mixed-Frequency Bayesian VAR Models](https://arxiv.org/abs/1912.02231) (with Paulina Jonéus)
