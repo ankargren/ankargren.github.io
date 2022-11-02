@@ -1,7 +1,8 @@
 I am a Data Scientist at Spotify. I have a PhD in statistics and defended my PhD thesis on mixed-frequency VAR models in 2019. 
 
 ### Peer-reviewed publications
-5. Ankargren, S., and Jonéus, P. (2020) "[Simulation Smoothing for Nowcasting with Large Mixed-Frequency VARs](https://doi.org/10.1016/j.ecosta.2020.05.007)", *Econometrics and Statistics*.
+6. Schultzberg, M., and Ankargren, S. (2023) "[Resampling-Free Bootstrap Inference for Quantiles](https://doi.org/10.1007/978-3-031-18461-1_36)", *Proceedings of the Future Technologies Conference (FTC) 2022*
+5. Ankargren, S., and Jonéus, P. (2021) "[Simulation Smoothing for Nowcasting with Large Mixed-Frequency VARs](https://doi.org/10.1016/j.ecosta.2020.05.007)", *Econometrics and Statistics*.
 4. Ankargren, S., Unosson, M., and Yang, Y. (2020) "[A Flexible Mixed-Frequency Vector Autoregression with a Steady-State Prior](https://www.degruyter.com/view/journals/jtse/ahead-of-print/article-10.1515-jtse-2018-0034/article-10.1515-jtse-2018-0034.xml)", *Journal of Time Series Econometrics*.
 3. Jin, S., and Ankargren, S. (2019) "[Frequentist Model Averaging in Structural Equation Modelling](https://link.springer.com/article/10.1007/s11336-018-9624-y)", *Psychometrika*.
 2. Ankargren, S., and Jin, S. (2018) "[On the Least-Squares Model Averaging Interval Estimator](http://www.tandfonline.com/doi/full/10.1080/03610926.2017.1300272)", *Communications in Statistics---Theory and Methods*.
@@ -21,15 +22,3 @@ I am a Data Scientist at Spotify. I have a PhD in statistics and defended my PhD
 1. `mfbvar`: Mixed-frequency Bayesian VAR models in R [CRAN](https://CRAN.R-project.org/package=mfbvar), [GitHub](https://github.com/ankargren/mfbvar)
 3. `statmath`: Statistical notation made easy in Latex [CTAN](https://ctan.org/pkg/statmath), [GitHub](https://github.com/ankargren/statmath)
 4. `karencv`: Academic CV template following Dr. Karen's guidelines [GitHub](https://github.com/ankargren/karencv)
-
-
-### Presentations
-
-8. Department of Statistics, Uppsala University. January, 2019.
-7. Sveriges Riksbank, Stockholm. December, 2018.
-6. Computational and Financial Econometrics (CFE), London, UK. December, 2017. 
-5. Department of Statistics, Uppsala University. December, 2017. 
-4. Department of Statistics, Uppsala University. December, 2016.
-3. Joint Statistical Meetings, Chicago, IL. August, 2016.
-2. Department of Statistics, Uppsala University. March, 2016.
-1. Department of Statistics, Uppsala University. January, 2015.
