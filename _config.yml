@@ -15,12 +15,11 @@ github_username:  ankargren # (your name)
 orcid_username: 0000-0003-4415-8734
 linkedin_username: sebastianankargren
 accent: "#ffffff" # accent color for blog column
-picture: linkedin.jpg
+picture: linkedin3.jpg
 
 
 author: "Sebastian Ankargren"
 email: "sebastian.ankargren@gmail.com"
-cv: CV_Sebastian_Ankargren.pdf
 
 # language settings
 isolang: en
