@@ -1,6 +1,11 @@
-I am a Senior Data Scientist at Spotify. I received my PhD in statistics from Uppsala University in 2019. At Spotify, I work on the development of the internal experimentation platform, and on the external experimentation platform [Confidence](https://confidence.spotify.com/).
+I am a Senior Data Scientist at Spotify. I received my PhD in statistics from Uppsala University in 2019. At Spotify, I work on the development of our experimentation platform [Confidence](https://confidence.spotify.com/).
 
 ### Blog posts
+10. [Reduce Dilution and Improve Sensitivity with Trigger Analysis](https://confidence.spotify.com/blog/trigger-analysis) (with Mårten Schultzberg), Confidence
+9. [Collaboration Fuels Efficient Experimentation](https://confidence.spotify.com/blog/collaboration) (with Mårten Schultzberg), Confidence
+8. [Experiment like Spotify: Analysis of Experiments](https://confidence.spotify.com/blog/experiment-analysis) (with Mattias Frånberg and Mårten Schultzberg), Confidence
+7. [Experiment like Spotify: Feature Flags](https://confidence.spotify.com/blog/feature-flags) (with Johan Rydberg), Confidence
+6. [Experiment like Spotify: A/B Tests and Rollouts](https://confidence.spotify.com/blog/ab-tests-and-rollouts), Confidence
 5. [Experiment Like Spotify: With Confidence](https://confidence.spotify.com/blog/experiment-like-spotify) (with Johan Rydberg), Confidence
 4. [Bringing Sequential Testing to Experiments with Longitudinal Data (Part 2): Sequential Testing](https://engineering.atspotify.com/2023/07/bringing-sequential-testing-to-experiments-with-longitudinal-data-part-2-sequential-testing/) (with Mattias Frånberg and Mårten Schultzberg), Spotify Engineering
 3. [Bringing Sequential Testing to Experiments with Longitudinal Data (Part 1): The Peeking Problem 2.0](https://engineering.atspotify.com/2023/07/bringing-sequential-testing-to-experiments-with-longitudinal-data-part-1-the-peeking-problem-2-0/) (with Mattias Frånberg and Mårten Schultzberg), Spotify Engineering
@@ -16,7 +21,9 @@ I am a Senior Data Scientist at Spotify. I received my PhD in statistics from Up
 2. Ankargren, S., and Jin, S. (2018) "[On the Least-Squares Model Averaging Interval Estimator](http://www.tandfonline.com/doi/full/10.1080/03610926.2017.1300272)", *Communications in Statistics---Theory and Methods*.
 1. Ankargren S., Bjellerup, M., and Shahnazarian, H. (2017) "[The Importance of the Financial System for the Real Economy](http://link.springer.com/article/10.1007/s00181-016-1175-4)", *Empirical Economics*.
 
-### Work in progress
+### Pre-prints
+7. [It's About Time: What A/B Test Metrics Estimate](https://arxiv.org/abs/2411.06150) (with Mårten Schultzberg and Mattias Frånberg)
+6. [Risk-aware product decisions in A/B tests with multiple metrics](https://arxiv.org/abs/2402.11609) (with Mårten Schultzberg and Mattias Frånberg)
 5. [Nowcasting Swedish GDP Growth](https://www.konj.se/download/18.186c6658177007380ced94aa/1612275575478/Working%20paper%20154.pdf) (with Unn Lindholm)
 4. [Time-Varying Macroeconomic Forecast Uncertainty: Sweden and the Covid-19 Pandemic](https://www.konj.se/download/18.3d1e79df1746a00a2456b37f/1600240930956/Working%20paper%20153_Time-Varying%20Macroeconomic%20Forecast%20Uncertainty.pdf)
 3. [Estimating Large Mixed-Frequency Bayesian VAR Models](https://arxiv.org/abs/1912.02231) (with Paulina Jonéus)
